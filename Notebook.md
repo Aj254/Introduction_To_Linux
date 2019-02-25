@@ -1,2 +1,4 @@
-# Git, Github, forking, cloning, pullrequests, master,  branches, comimits
-# all this are intersting stuff ... i am liking it.  
+# Git on Commandline 
+
+ Github, forking, cloning, pull requests, master,  branches, comimits
+ all this are interesting stuff ... i am liking it.  
